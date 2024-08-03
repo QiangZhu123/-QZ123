@@ -46,5 +46,9 @@
 
 ![image](https://github.com/user-attachments/assets/29b8bec8-245f-4956-bd40-e83e31eb163f)
 
+![image](https://github.com/user-attachments/assets/fdef0363-7d4a-423b-b6e9-3b6118406a02)
 
 #  创建并运行test.sh文件
+
+![Uploading image.png…]()
+
