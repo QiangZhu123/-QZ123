@@ -1,5 +1,7 @@
 #   任务1: 破冰活动：自我介绍
 
+![image](https://github.com/user-attachments/assets/dd34152b-d4c6-4ec9-a651-63450b2b4f24)
+
 
 ![image](https://github.com/user-attachments/assets/7b503df0-c80c-46aa-be2a-d9b39201e348)
 
