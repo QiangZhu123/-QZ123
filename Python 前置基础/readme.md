@@ -4,10 +4,10 @@
 
 
     def wordcount(word):
-      test = word.split(' ')
-      a = Counter(test)
-      return a
-
+        word = word.strip()
+        test = word.split(' ')
+        a = Counter(test)
+        return a
 #  请使用本地vscode连接远程开发机，将上面你写的wordcount函数在开发机上进行debug，体验debug的全流程，并完成一份debug笔记(需要截图)。
 
 ![image](https://github.com/user-attachments/assets/779a66af-1c33-4d6c-a98f-53cbed53b266)
