@@ -10,7 +10,8 @@
         return a
 #  请使用本地vscode连接远程开发机，将上面你写的wordcount函数在开发机上进行debug，体验debug的全流程，并完成一份debug笔记(需要截图)。
 
-![image](https://github.com/user-attachments/assets/779a66af-1c33-4d6c-a98f-53cbed53b266)
+![image](https://github.com/user-attachments/assets/d7f7d21b-6a4f-4f43-b231-6150f2926d4b)
+
 
 ![image](https://github.com/user-attachments/assets/22d586fb-b94b-4a3b-a9bf-e929ca1b3b0b)
 
