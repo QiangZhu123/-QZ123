@@ -9,7 +9,7 @@
 # Bad Case 1：
 
 |模型服务来源| 自行部署/compassarea|
-    
+|:-----|:----|
 |您的输入|中文的意思文字是不会影响具体的理解的顺序 |
 |模型A|InternLM2-Chat-20B (上海AILab书生·浦语)|    
 | 模型B|ERNIE-4.0-8K-Preview-0518 (百度文心一言)|
