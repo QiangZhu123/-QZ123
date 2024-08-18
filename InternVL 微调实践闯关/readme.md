@@ -16,6 +16,8 @@
 # FT模型新结果生成
 ![image](https://github.com/user-attachments/assets/f14705af-0b13-4bb7-b9e5-0de60b6d49e2)
 
+
+# 修改lora和lr 
 ![image](https://github.com/user-attachments/assets/371597f3-a569-4388-88cd-00eb5fce1218)
 
 ![image](https://github.com/user-attachments/assets/fc0ba098-3d57-4f09-bb7e-cbae37da7765)
