@@ -14,6 +14,8 @@
 
 
 # FT模型新结果生成
+![image](https://github.com/user-attachments/assets/005e60cf-0168-4049-9a3a-9fa1af2c9d38)
+
 ![image](https://github.com/user-attachments/assets/f14705af-0b13-4bb7-b9e5-0de60b6d49e2)
 
 
