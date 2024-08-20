@@ -12,6 +12,10 @@
 
 ![image](https://github.com/user-attachments/assets/bb8877a5-ecdd-43e7-8710-a162771ec0f9)
 
+# 显存占用：
+![image](https://github.com/user-attachments/assets/cc58f671-6c4a-4e8f-93cc-3b3b0d46035e)
+![image](https://github.com/user-attachments/assets/476d30f2-4cdc-45fa-82fc-c07142d58515)
+
 
 
 
