@@ -8,4 +8,8 @@
 
 ![image](https://github.com/user-attachments/assets/1cd7b6b1-097e-401f-9f90-36a507fc8d2b)
 
+# 链接
+
+https://huggingface.co/spaces/zhuyx/testmmd
+
 
