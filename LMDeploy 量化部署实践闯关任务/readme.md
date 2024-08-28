@@ -1,9 +1,12 @@
+# 执行量化操作
 ![image](https://github.com/user-attachments/assets/524c6a67-14f4-4f28-b1da-020d2ae01da0)
 
+# 量化生成结果
 ![image](https://github.com/user-attachments/assets/70cb42c7-17d0-4b79-aba2-e3257709b61f)
 
-![image](https://github.com/user-attachments/assets/59fbe692-a1eb-4a7c-8309-d238a0c54986)
 
+# 部署
+![image](https://github.com/user-attachments/assets/59fbe692-a1eb-4a7c-8309-d238a0c54986)
 
 
 ![image](https://github.com/user-attachments/assets/84aab595-0816-4949-8d52-f83b6387307f)
