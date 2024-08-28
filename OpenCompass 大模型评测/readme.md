@@ -17,8 +17,13 @@
 
 # 使用 OpenCompass 进行调用API评测
 
-![image](https://github.com/user-attachments/assets/88af95a7-f643-4d7e-874f-719d0d2a6a46)
+![image](https://github.com/user-attachments/assets/59c582f7-caf4-452c-beb1-8af3d8407127)
 
 
+![image](https://github.com/user-attachments/assets/36d37703-700d-4b2d-bab0-692014855194)
+
+![image](https://github.com/user-attachments/assets/c836cb1e-8141-4521-80c4-43a5199c1a88)
+![image](https://github.com/user-attachments/assets/ee33bd97-3f85-4a5c-8e2f-a065044b60f6)
+![image](https://github.com/user-attachments/assets/c5c0a4f9-dee0-4efe-89d7-61bf7568a0f6)
 
 
