@@ -24,6 +24,7 @@
 
 ![image](https://github.com/user-attachments/assets/fc0ba098-3d57-4f09-bb7e-cbae37da7765)
 
+# 损失的变化情况
 ![image](https://github.com/user-attachments/assets/1d7c3609-febf-498e-98bf-070d41ad5eba)
 
 
